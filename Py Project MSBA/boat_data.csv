@@ -1,0 +1,21 @@
+boat_id;boat_capacity;manufacturer;year_manufactured;is_available
+22576;14;McGlynn;2008;Yes
+99075;11;Murray and Shields;1999;No
+15983;14;Keebler LLC;2004;No
+69581;7;Okuneva and Sons;2007;Yes
+34341;14;Schaefer Group;1993;Yes
+18944;19;Miller-Reynolds;1993;Yes
+31331;15;Murphy-Bogan;1999;Yes
+89947;19;Jones Inc;1989;Yes
+79756;10;Yost;1996;Yes
+69919;19;Nader;2011;Yes
+90011;20;Conn Inc;2006;Yes
+33294;2;Will and Greenholt;2012;Yes
+66133;1;Mohr-Bergstrom;1989;Yes
+66022;10;O'Connell and Sons;1996;Yes
+95968;15;Gleichner Group;2003;Yes
+76262;11;Prosacco LLC;2011;Yes
+54959;13;Streich-Towne;2008;No
+29866;8;Mayer and Sons;2010;Yes
+71191;10;Batz and Sons;2012;No
+93298;20;Rosenbaum and Hermiston;2002;Yes
